@@ -1,3 +1,5 @@
+![Definition of "technical writing" on H2G2]<https://i0.wp.com/rrchapman.us/wp-content/uploads/2023/04/h2g2-definition-technical-writing-1.jpg>
+
 # [Robert R. Chapman, Jr.](https://rrchapman.us/)  
 
 > In our culture–I exaggerate only slightly–those who know cannot write, and those who can write do not know.  
@@ -549,29 +551,29 @@ Attended three WritersUA conferences on how to create user assistance documentat
 
 The names of the companies where I have worked are trademarks or registered trademarks of the respective owners.  
 
-**Adobe**  
+Adobe  
 : Adobe, Acrobat, Captivate, FrameMaker, RoboHelp, and WebHelp are either registered trademarks or trademarks of Adobe Systems Incorporated in the United States and/or other countries.  
 
-**Atlassian**  
+Atlassian  
 : Atlassian, Confluence, and Jira are trademarks of Atlassian Pty Ltd.  
 
-**Author-it**  
+Author-it  
 : Author-it is a registered trademark of Author-it Software Corporation.  
 
-**Information Mapping**  
+Information Mapping  
 : Information Mapping is the property of Information Mapping International NV.  
 
-**Microsoft**  
+Microsoft  
 : Microsoft, Dynamics, FrontPage, Office, Publisher, Visio, SharePoint, Windows, and Windows Server are trademarks of the Microsoft Corporation in the United States, other countries, or both.  
 
-**Oracle**  
+Oracle  
 : Oracle is a registered trademark of Oracle Corporation and/or its affiliates.  
 
-**SyncRO Soft SR**  
+SyncRO Soft SR  
 : Oxygen is a trademark or registered trademark of SyncRO Soft SR.  
 
-**SDL Limited**  
+SDL Limited  
 : SDL and Tridion are trademarks or registered trademarks of SDL Limited.  
 
-**TechSmith**  
+TechSmith  
 : SnagIt is a registered trademark of TechSmith Corporation.  
