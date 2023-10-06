@@ -1,4 +1,4 @@
-![Definition of Technical Writing on H2G2](/CurriculumVitae/assets/h2g2%20definition%20technical%20writing.jpg "Definition of Technical Writing on H2G2">
+![Definition of Technical Writing on H2G2](docs/asssets/img/h2g2-definition-technical-writing-GitHub.jpg "Definition of Technical Writing on H2G2")
 
 # [Robert R. Chapman, Jr.](https://rrchapman.us/)  
 
