@@ -1,5 +1,3 @@
-![Definition of technical writing on H2G2]<https://rrchapman.us/wp-content/uploads/2023/04/h2g2-definition-technical-writing-1.jpg "Definition of technical writing">
-
 # [Robert R. Chapman, Jr.](https://rrchapman.us/)  
 
 > In our culture–I exaggerate only slightly–those who know cannot write, and those who can write do not know.  
