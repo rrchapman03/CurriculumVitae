@@ -1,3 +1,5 @@
+![Definition of Technical Writing on H2G2](/CurriculumVitae/assets/h2g2%20definition%20technical%20writing.jpg "Definition of Technical Writing on H2G2">
+
 # [Robert R. Chapman, Jr.](https://rrchapman.us/)  
 
 > In our culture–I exaggerate only slightly–those who know cannot write, and those who can write do not know.  
