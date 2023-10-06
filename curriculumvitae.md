@@ -1,4 +1,4 @@
-= Robert R. Chapman, Jr.  
+= [Robert R. Chapman, Jr.](https://rrchapman.us/)  
 I have successfully performed a variety of technical communication tasks for over 30 years:
 
 - Editor  
