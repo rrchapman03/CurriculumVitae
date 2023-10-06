@@ -1,4 +1,4 @@
-![Definition of "technical writing" on H2G2]<https://i0.wp.com/rrchapman.us/wp-content/uploads/2023/04/h2g2-definition-technical-writing-1.jpg>
+![Definition of technical writing on H2G2]<https://i0.wp.com/rrchapman.us/wp-content/uploads/2023/04/h2g2-definition-technical-writing-1.jpg "Definition of technical writing">
 
 # [Robert R. Chapman, Jr.](https://rrchapman.us/)  
 
