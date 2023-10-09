@@ -551,29 +551,31 @@ Attended three WritersUA conferences on how to create user assistance documentat
 
 The names of the companies where I have worked are trademarks or registered trademarks of the respective owners.  
 
-Adobe  
-: Adobe, Acrobat, Captivate, FrameMaker, RoboHelp, and WebHelp are either registered trademarks or trademarks of Adobe Systems Incorporated in the United States and/or other countries.  
+<dl>
+<dt>Adobe</dt>  
+<dd>Adobe, Acrobat, Captivate, FrameMaker, RoboHelp, and WebHelp are either registered trademarks or trademarks of Adobe Systems Incorporated in the United States and/or other countries.  </dd>
 
-Atlassian  
-: Atlassian, Confluence, and Jira are trademarks of Atlassian Pty Ltd.  
+<dt>Atlassian  </dt>
+<dd>Atlassian, Confluence, and Jira are trademarks of Atlassian Pty Ltd.  </dd>
 
-Author-it  
-: Author-it is a registered trademark of Author-it Software Corporation.  
+<dt>Author-it  </dt>
+<dd>Author-it is a registered trademark of Author-it Software Corporation.  </dd>
 
-Information Mapping  
-: Information Mapping is the property of Information Mapping International NV.  
+<dt>Information Mapping  </dt>
+<dd>Information Mapping is the property of Information Mapping International NV.  </dd>
 
-Microsoft  
-: Microsoft, Dynamics, FrontPage, Office, Publisher, Visio, SharePoint, Windows, and Windows Server are trademarks of the Microsoft Corporation in the United States, other countries, or both.  
+<dt>Microsoft  </dt>
+<dd>Microsoft, Dynamics, FrontPage, Office, Publisher, Visio, SharePoint, Windows, and Windows Server are trademarks of the Microsoft Corporation in the United States, other countries, or both.  </dd>
 
-Oracle  
-: Oracle is a registered trademark of Oracle Corporation and/or its affiliates.  
+<dt>Oracle  </dt>
+<dd>Oracle is a registered trademark of Oracle Corporation and/or its affiliates.  </dd>
 
-SyncRO Soft SR  
-: Oxygen is a trademark or registered trademark of SyncRO Soft SR.  
+<dt>SyncRO Soft SR  </dt>
+<dd>Oxygen is a trademark or registered trademark of SyncRO Soft SR.  </dd>
 
-SDL Limited  
-: SDL and Tridion are trademarks or registered trademarks of SDL Limited.  
+<dt>SDL Limited  </dt>
+<dd>SDL and Tridion are trademarks or registered trademarks of SDL Limited.  </dd>
 
-TechSmith  
-: SnagIt is a registered trademark of TechSmith Corporation.  
+<dt>TechSmith  </dt>
+<dd>SnagIt is a registered trademark of TechSmith Corporation.  </dd>
+</dl>
